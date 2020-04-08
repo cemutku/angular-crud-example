@@ -6,6 +6,6 @@ Also contains basic examples of Http Calls, Routing and Forms
 
 ## Development server
 
-Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm install` to get node_modules and run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 There is a fake API created with `json-server` under `http://localhost:3000/` check `/posts` for json data (db.json). It will be started with the same command as angular app (`npm start`)
